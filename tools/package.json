@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "netmask": "^1.0.6"
+    "netmask": "^2.0.1"
   }
 }
